@@ -1,2 +1,2 @@
 # Amazon-SES
-Send email with Amazon SES
+Send email on Amazon SES with Lambda SQS Trigger
